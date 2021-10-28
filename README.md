@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 🤗
+
+I'm a data scientist at Facens Brain and master's student at Universidade de São Paulo (ICMC-USP). I have a background in software engineering and my current focus is on studying Natural Language Processing, especially training language models and dependency parsing.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=huberemanuel" />
+
+### How to reach me
+
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/emanuelh/)
+[<img src="https://img.icons8.com/doodle/64/000000/apple-mail.png"/>](mailto:huber.emanuel@outlook.com)
 
 <!--
 **huberemanuel/huberemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
