@@ -6,8 +6,8 @@ I'm a data scientist at Facens Brain and master's student at Universidade de Sã
 
 ### How to reach me
 
-[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/emanuelh/)
-[<img src="https://img.icons8.com/doodle/64/000000/apple-mail.png"/>](mailto:huber.emanuel@outlook.com)
+[<img target="_blank" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/emanuelh/)
+[<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:huber.emanuel@outlook.com)
 
 <!--
 **huberemanuel/huberemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
