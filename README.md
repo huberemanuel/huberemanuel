@@ -1,6 +1,6 @@
 ### Hi there 🤗
 
-I'm a data scientist at Facens Brain and master's student at Universidade de São Paulo (ICMC-USP). I have a background in software engineering and my current focus is on studying Natural Language Processing, especially training language models and dependency parsing.
+I'm a data scientist at CESAR and master's student at Universidade de São Paulo (ICMC-USP). I have a background in software engineering and my current focus is on studying Natural Language Processing, especially training language models and dependency parsing.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huberemanuel" />
 
