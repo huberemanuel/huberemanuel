@@ -1,6 +1,7 @@
 ### Hi there 🤗
 
-I'm a data scientist at [CESAR](https://www.cesar.org.br/) and master's student at Universidade de São Paulo (ICMC-USP) [C4AI](https://c4ai.inova.usp.br/research/#NLP2). I have a background in software engineering and my current focus is on studying Natural Language Processing, especially training language models and dependency parsing.
+I'm a data scientist at [CESAR](https://www.cesar.org.br/). 
+I have a background in software engineering and my current focus is on studying Natural Language Processing.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huberemanuel" />
 
