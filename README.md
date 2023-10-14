@@ -1,7 +1,7 @@
 ### Hi there 🤗
 
 I'm a data scientist at [CESAR](https://www.cesar.org.br/). 
-I have a background in software engineering and my current focus is on studying Natural Language Processing.
+I have a background in software engineering and my current focus is studying Natural Language Processing.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huberemanuel" />
 
