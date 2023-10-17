@@ -3,6 +3,11 @@
 I'm a data scientist at [CESAR](https://www.cesar.org.br/). 
 I have a background in software engineering and my current focus is studying Natural Language Processing.
 
+## Projects
+
+* Brazilian Portuguese Part-of-Speech Tagger (Porttagger): [code](https://github.com/huberemanuel/porttagger) | [demo](https://huggingface.co/spaces/Emanuel/porttagger)
+* "Attention Is All You Need" from scratch with PyTorch: [code](https://github.com/huberemanuel/transformers-pytorch)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huberemanuel" />
 
 ### How to reach me
